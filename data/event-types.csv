@@ -1,0 +1,8 @@
+Code	Name	Desc	BaseFee	StaffFee	StaffPerHundred
+P01	Small Party	Small party, less than 500 people	5000	1500	2
+P03	Ball, Medium Party	Medium Party, less than 5000 Patrons	8000	1500	2
+P04	Large Party	Large Party, more than 5000 patrons	20000	1500	2
+W01	Small Wedding	Small Wedding, Less than 300 guests	12000	2000	4
+W02	Large Wedding	Large Wedding, 350 guests or more	24260	2000	5
+C01	Conference Small	Small Conference or podium gathering of less than 200	25000	2500	3
+C02	Conference Large	Large Conference or podium gathering of 250 or more	50000	2500	3
